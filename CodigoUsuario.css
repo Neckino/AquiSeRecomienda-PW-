@@ -1,0 +1,63 @@
+body {
+    font-size: 15px;
+    font-family: "Julius Sans One";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+}
+
+.julius-sans-one-regular {
+    font-family: "Julius Sans One";
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
+.container {
+    background-color: #88292F; /* Rojo oscuro */
+    padding: 50px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.user-icon {
+    font-size: 48px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn-google {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 60px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+b {
+    justify-content: center;
+    display: flex;
+    color:white;
+    padding: 5px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+
+.imagenes img {
+    width: 25px;
+    height: 30px;
+}

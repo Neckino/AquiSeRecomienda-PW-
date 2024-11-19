@@ -1,0 +1,113 @@
+body{
+text-align: center; 
+justify-content: center;
+}
+.ImagenPrincipal img{
+    width: 20%;
+    height: 30%;
+    float: left;
+}
+
+.MiniMenu {
+text-align: center;
+justify-content: space-between;
+padding: 50px;
+display: flex;
+}
+
+.BuscarUsuario img{
+    width: 3%;
+    height: 3%;
+    float: right;
+    padding: 2%;
+}
+
+.presentacion{
+    border-top: solid #88292F;
+    border-bottom: solid #88292F;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+.Contenedor {
+    padding: 20px 20px 20px 20px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-around;
+    gap: 20px;
+    padding: 20px;
+}
+
+
+
+.TextoSuperior{
+    padding: 35px;
+}
+
+.opciones {
+    padding: 20px;
+    display: flex;
+    gap: 30%;
+    justify-content: center;
+}
+
+
+.RecomendacionesRecetas img{
+    float:center;
+    text-align: end;
+}
+
+.RecomendacionesRecetas{
+    text-align: center;
+    justify-content: space-between;
+    border-right: solid #88292F;
+    padding-right: 200px;
+}
+
+.RecomendacionesResstaurante img{
+    float: center;
+    text-align: end;
+}
+
+.RecomendacionesResstaurante {
+    float: center;
+    text-align: center;
+    padding-left: 200px;
+}
+
+.GrupoRecomendaciones {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    display: flexbox;
+    background-color: #88292F;
+    color: white;
+    justify-content: center
+}
+
+.NavegacionPieDePagina {
+    padding: 10px;
+    text-align: center;
+    justify-content: space-between;
+    padding: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+.NavegacionPieDePagina img{
+    height: 3%;
+     width: 3%;
+    gap: 29px;
+}
